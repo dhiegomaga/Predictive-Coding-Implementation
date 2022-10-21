@@ -4,7 +4,7 @@
 
 This project was the base of my Bachelor's Thesis, mentored by [Professor Reinhold von Schwerin](https://studium.hs-ulm.de/de/users/142412) and Professor [Ronald Blechschmidt](https://studium.hs-ulm.de/de/users/617327), during my stay at the Technische Hochschule Ulm. 
 
-[Final Thesis Download]('THU_Thesis-final.pdf')
+[Download Final Thesis file](THU_Thesis-final.pdf)
 
 ## Overview
 
