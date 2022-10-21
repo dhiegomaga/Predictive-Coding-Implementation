@@ -1,5 +1,13 @@
 # Predictive Coding Model
 
+## Bachelor Thesis
+
+This project was the base of my Bachelor's Thesis, mentored by [Professor Reinhold von Schwerin](https://studium.hs-ulm.de/de/users/142412) and Professor [Ronald Blechschmidt](https://studium.hs-ulm.de/de/users/617327), during my stay at the Technische Hochschule Ulm. 
+
+[Final Thesis Download]('THU_Thesis-final.pdf')
+
+## Overview
+
 This repository contrains an implementation of the paper *An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity, Whittington, James CR and Bogacz, Rafal [2017]* - [link](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00949). 
 
 Predictive Coding is an alternative approach to artificial neural networks, inspired by theories of brain function. The network is structured in a hierarchical fashion with multiple layers (similar to deep learning), in which bottom-most layers receive *sensory input*, while the higher layers are responsible for representing the underlying *hidden causes* of such inputs (i.e. the inferred structure of the real world which gave rise to such input, i.e. explain the input). 
